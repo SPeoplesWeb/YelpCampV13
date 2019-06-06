@@ -1,0 +1,33 @@
+.thumbnail img{
+	width: 100%;
+	height: 200px;
+
+}
+.card-img-top{
+	width: 100%;
+	height: 200px;
+}
+.thumbnail .img-responsive{
+	width: 100%;
+	height: 600px;
+}
+.thumbnail {
+	padding: 0;
+}
+
+.thumbnail .caption-full{
+	padding: 9px;
+}
+
+.delete-form{
+	display: inline;
+}
+
+.card-img-top{
+	max-height: 267px;
+}
+/* Google Maps */
+#map {
+    height: 400px;
+    width: 100%;
+}
